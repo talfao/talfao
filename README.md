@@ -6,7 +6,7 @@
 |  In progress |  Centrifuge | Code4Arena  |   |   |   |
 |  Judging phase |  Dopex |  Code4Arena |   |   |   |
 |  Completed |  Escrow |  CodeHawks |  0  |  1  |  1  |
-|  Judging phase |  Tokemak  |  Sherlock |   |   |   |
+|  Escalations |  Tokemak  |  Sherlock | 5  | 0   | 0 |
 
 ## Completed audits and findings
 
