@@ -3,7 +3,6 @@
 ## Statistics
 |  Status| Protocol name  | Platform   | High |   Medium | Low |
 |:---:|:---:|:---:|:---:|:--:|:---:|
-|  In progress |  Centrifuge | Code4Arena  |   |   |   |
 |  Judging phase |  Dopex |  Code4Arena |   |   |   |
 |  Completed |  Escrow |  CodeHawks |  0  |  1  |  1  |
 |  Escalations |  Tokemak  |  Sherlock | 5  | 0   | 0 |
