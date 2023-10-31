@@ -1,11 +1,13 @@
 # Smart contract security researcher / auditor
 
 ## Statistics
-|  Status| Protocol name  | Platform   | High |   Medium | Low |
+|  Status| Protocol name  | Platform   | High |   Medium | Low | 
 |:---:|:---:|:---:|:---:|:--:|:---:|
-|  Judging phase |  Dopex |  Code4Arena |   |   |   |
+| Escalations |     RealWagmi second audit   |    Sherlock         | 2   |  0  | 0|
+| Appeals |     DittoEth    |    CodeHawks          | 1   |  0  | 2 |
+|  Completed|  Dopex |  Code4Arena |  ? |  ? |  ?  |
 |  Completed |  Escrow |  CodeHawks |  0  |  1  |  1  |
-|  Escalations |  Tokemak  |  Sherlock | 5  | 0   | 0 |
+|  Completed |  Tokemak  |  Sherlock | 5  | 1  | - |
 
 ## Completed audits and findings
 
