@@ -4,10 +4,11 @@
 |  Status| Protocol name  | Platform   | High |   Medium | Low | 
 |:---:|:---:|:---:|:---:|:--:|:---:|
 | Escalations |     RealWagmi second audit   |    Sherlock         | 2   |  0  | 0|
-| Appeals |     DittoEth    |    CodeHawks          | 1   |  0  | 2 |
-|  Completed|  Dopex |  Code4Arena |  ? |  ? |  ?  |
+| Completed |     DittoEth    |    CodeHawks          | 1   |  0  | 2 |
+|  Completed|  Dopex |  Code4Arena |  1 |  0 |  0  |
 |  Completed |  Escrow |  CodeHawks |  0  |  1  |  1  |
 |  Completed |  Tokemak  |  Sherlock | 5  | 1  | - |
+|Summary | 5 | | 9 | 2 |3 |
 
 ## Completed audits and findings
 
