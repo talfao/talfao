@@ -3,7 +3,7 @@
 ## Statistics
 |  Status| Protocol name  | Platform   | High |   Medium | Low | 
 |:---:|:---:|:---:|:---:|:--:|:---:|
-| Escalations |     RealWagmi second audit   |    Sherlock         | 2   |  0  | 0|
+| Completed |     RealWagmi second audit   |    Sherlock         | 2   |  0  | 0|
 | Completed |     DittoEth    |    CodeHawks          | 1   |  0  | 2 |
 |  Completed|  Dopex |  Code4Arena |  1 |  0 |  0  |
 |  Completed |  Escrow |  CodeHawks |  0  |  1  |  1  |
