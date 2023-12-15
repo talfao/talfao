@@ -9,7 +9,7 @@
 |  Completed|  Dopex |  Code4Arena |  1 |  0 |  0  |
 |  Completed |  Escrow |  CodeHawks |  0  |  1  |  1  |
 |  Completed |  Tokemak  |  Sherlock | 5  | 1  | - |
-|Summary | 5 | | 9 | 2 |3 |
+|Summary | 6 | | 12 | 3 |3 |
 
 ## Completed audits and findings
 
