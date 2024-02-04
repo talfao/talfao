@@ -11,4 +11,14 @@
 |  Completed |  Tokemak  |  Sherlock | 5  | 1  | - |
 |Summary | 6 | | 12 | 3 |3 |
 
+## Current job
+
+Smart contract security auditor at Nethermind
+- Cairo/Starknet
+- Solidity/EVM
+- Type of apps
+  - DeFi
+  - Blockchain gaming
+  - Liquid staking
+  - NFTs/Marketplaces
 
