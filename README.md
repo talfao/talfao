@@ -11,9 +11,4 @@
 |  Completed |  Tokemak  |  Sherlock | 5  | 1  | - |
 |Summary | 6 | | 12 | 3 |3 |
 
-## Completed audits and findings
 
-### Escrow
-The smart contract was a simple application for connecting buyers and sellers of services. (Probably smart contract auditing, as it should be part of the CodeHawks platform.)
-- [Medium - USDC Blacklisting](Escrow/001-M.md)
-- [Low - Poor ACL when creating Escrow](Escrow/001-L.md)
