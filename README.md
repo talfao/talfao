@@ -1,6 +1,6 @@
 # Smart contract security researcher / auditor
 
-## Founder of CODESPECT (codespect.xyz)
+## Founder of CODESPECT (https://codespect.xyz)
 - Blockchain security company provides Cairo, Solidity, and Solana audits.
 
 ## Smart contract security auditor at Nethermind Security (2023 Oct - 2024 Oct)
