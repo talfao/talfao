@@ -13,7 +13,11 @@
 
 ## Current job
 
-Smart contract security auditor at Nethermind
+
+### Founder of CODESPECT (codespect.xyz)
+- Blockchain security company provides Cairo, Solidity, and Solana audits.
+
+### Smart contract security auditor at Nethermind (2023 Oct - 2024 Oct)
 - Cairo/Starknet
 - Solidity/EVM
 - Type of apps
@@ -21,4 +25,5 @@ Smart contract security auditor at Nethermind
   - Blockchain gaming
   - Liquid staking
   - NFTs/Marketplaces
+
 
